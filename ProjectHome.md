@@ -1,0 +1,10 @@
+**All code now at github:  https://github.com/cuthbertLab/music21 -- downloads only here**
+
+Although computers have transformed how we listen to, obtain, compose, and notate music, they have not fundamentally changed how we research and analyze music. Though many computer databases have been created for musicology, they are not well adapted for sophisticated music queries. For instance, melodies can be found if exact matches exist. But melodic variations such as the repetition of a phrase or a change in embellishment are extremely common, yet cause searches to fail. More complex investigations, such as finding all melodies that imply a particular underlying harmony, can barely begin to be created with existing software packages. The lack of relevant software for analyzing music hampers scientific attempts to understand what we listen for and how we process what we hear; these activities are little understood despite music’s nearly universal presence in our daily lives.
+
+The `music21` project at M.I.T. will give to the music community the set of tools it needs to conduct sophisticated musical and statistical analysis using modern programming techniques. The software framework, written in Python, manipulates music as a collection of symbolic data, such as pitch names and note durations, that can then be classified as higher level musical structures according to the style, region, or period being studied.
+
+`Music21` focuses specifically on the manipulation of symbolic music data: it leaves to the many preexisting
+open-source and proprietary software packages the notation and audio playback of scores (the two areas where computer-aided music research is most developed). By focusing on the points of greatest need to musicology, the framework will give rapid results within a short timeframe.
+
+For more information, see the blog at http://music21-mit.blogspot.com/, join the mailing list at https://groups.google.com/group/music21list, or see the home page at http://web.mit.edu/music21/
